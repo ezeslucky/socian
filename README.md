@@ -3,60 +3,11 @@
 <div align="center">
   <strong>
   <h2>Your ultimate AI social media scheduling tool</h2><br />
-  <a href="https://Socian.com">Socian</a>: An alternative to: Buffer.com, Hypefury, Twitter Hunter, etc...<br /><br />
-  </strong>
+  
   Socian offers everything you need to manage your social media posts,<br />build an audience, capture leads, and grow your business.
 </div>
 
-<div class="flex" align="center">
-  <br />
-  <img alt="Instagram" src="https://Socian.com/svgs/socials/Instagram.svg" width="32">
-  <img alt="Youtube" src="https://Socian.com/svgs/socials/Youtube.svg" width="32">
-  <img alt="Dribbble" src="https://Socian.com/svgs/socials/Dribbble.svg" width="32">
-  <img alt="Linkedin" src="https://Socian.com/svgs/socials/Linkedin.svg" width="32">
-  <img alt="Reddit" src="https://Socian.com/svgs/socials/Reddit.svg" width="32">
-  <img alt="TikTok" src="https://Socian.com/svgs/socials/TikTok.svg" width="32">
-  <img alt="Facebook" src="https://Socian.com/svgs/socials/Facebook.svg" width="32">
-  <img alt="Pinterest" src="https://Socian.com/svgs/socials/Pinterest.svg" width="32">
-  <img alt="Threads" src="https://Socian.com/svgs/socials/Threads.svg" width="32">
-  <img alt="X" src="https://Socian.com/svgs/socials/X.svg" width="32">
-  <img alt="Slack" src="https://Socian.com/svgs/socials/Slack.svg" width="32">
-  <img alt="Discord" src="https://Socian.com/svgs/socials/Discord.svg" width="32">
-  <img alt="Mastodon" src="https://Socian.com/svgs/socials/Mastodon.svg" width="32">
-  <img alt="Bluesky" src="https://Socian.com/svgs/socials/Bluesky.svg" width="32">
-</div>
 
-<p align="center">
-  <br />
-  <a href="https://docs.Socian.com" rel="dofollow"><strong>Explore the docs »</strong></a>
-  <br />
-
-  <br />
-  <a href="https://youtube.com/@Socianofficial" rel="dofollow"><strong>Watch the YouTube Tutorials»</strong></a>
-  <br />
-</p>
-
-<p align="center">
-  <a href="https://platform.Socian.com">Register</a>
-  ·
-  <a href="https://discord.Socian.com">Join Our Discord (devs only)</a>
-  ·
-  <a href="https://docs.Socian.com/public-api">Public API</a><br />
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/@Socian/node">NodeJS SDK</a>
-  ·
-  <a href="https://www.npmjs.com/package/n8n-nodes-Socian">N8N custom node</a>
-  ·
-  <a href="https://apps.make.com/Socian">Make.com integration</a>
-</p>
-
-
-<br />
-
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/05436a01-19c8-4827-b57f-05a5e7637a67" width="100%" />
-</p>
 
 ## ✨ Features
 
