@@ -1,135 +1,115 @@
-# Turborepo starter
 
-This Turborepo starter is maintained by the Turborepo core team.
 
-## Using this example
+<div align="center">
+  <strong>
+  <h2>Your ultimate AI social media scheduling tool</h2><br />
+  <a href="https://Socian.com">Socian</a>: An alternative to: Buffer.com, Hypefury, Twitter Hunter, etc...<br /><br />
+  </strong>
+  Socian offers everything you need to manage your social media posts,<br />build an audience, capture leads, and grow your business.
+</div>
 
-Run the following command:
+<div class="flex" align="center">
+  <br />
+  <img alt="Instagram" src="https://Socian.com/svgs/socials/Instagram.svg" width="32">
+  <img alt="Youtube" src="https://Socian.com/svgs/socials/Youtube.svg" width="32">
+  <img alt="Dribbble" src="https://Socian.com/svgs/socials/Dribbble.svg" width="32">
+  <img alt="Linkedin" src="https://Socian.com/svgs/socials/Linkedin.svg" width="32">
+  <img alt="Reddit" src="https://Socian.com/svgs/socials/Reddit.svg" width="32">
+  <img alt="TikTok" src="https://Socian.com/svgs/socials/TikTok.svg" width="32">
+  <img alt="Facebook" src="https://Socian.com/svgs/socials/Facebook.svg" width="32">
+  <img alt="Pinterest" src="https://Socian.com/svgs/socials/Pinterest.svg" width="32">
+  <img alt="Threads" src="https://Socian.com/svgs/socials/Threads.svg" width="32">
+  <img alt="X" src="https://Socian.com/svgs/socials/X.svg" width="32">
+  <img alt="Slack" src="https://Socian.com/svgs/socials/Slack.svg" width="32">
+  <img alt="Discord" src="https://Socian.com/svgs/socials/Discord.svg" width="32">
+  <img alt="Mastodon" src="https://Socian.com/svgs/socials/Mastodon.svg" width="32">
+  <img alt="Bluesky" src="https://Socian.com/svgs/socials/Bluesky.svg" width="32">
+</div>
 
-```sh
-npx create-turbo@latest
-```
+<p align="center">
+  <br />
+  <a href="https://docs.Socian.com" rel="dofollow"><strong>Explore the docs »</strong></a>
+  <br />
 
-## What's inside?
+  <br />
+  <a href="https://youtube.com/@Socianofficial" rel="dofollow"><strong>Watch the YouTube Tutorials»</strong></a>
+  <br />
+</p>
 
-This Turborepo includes the following packages/apps:
+<p align="center">
+  <a href="https://platform.Socian.com">Register</a>
+  ·
+  <a href="https://discord.Socian.com">Join Our Discord (devs only)</a>
+  ·
+  <a href="https://docs.Socian.com/public-api">Public API</a><br />
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/@Socian/node">NodeJS SDK</a>
+  ·
+  <a href="https://www.npmjs.com/package/n8n-nodes-Socian">N8N custom node</a>
+  ·
+  <a href="https://apps.make.com/Socian">Make.com integration</a>
+</p>
 
-### Apps and Packages
 
-- `docs`: a [Next.js](https://nextjs.org/) app
-- `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
-- `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
+<br />
 
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/05436a01-19c8-4827-b57f-05a5e7637a67" width="100%" />
+</p>
 
-### Utilities
+## ✨ Features
 
-This Turborepo has some additional tools already setup for you:
+| ![Image 1](https://github.com/user-attachments/assets/a27ee220-beb7-4c7e-8c1b-2c44301f82ef) | ![Image 2](https://github.com/user-attachments/assets/eb5f5f15-ed90-47fc-811c-03ccba6fa8a2) |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![Image 3](https://github.com/user-attachments/assets/d51786ee-ddd8-4ef8-8138-5192e9cfe7c3) | ![Image 4](https://github.com/user-attachments/assets/91f83c89-22f6-43d6-b7aa-d2d3378289fb) |
 
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
+# Intro
 
-### Build
+- Schedule all your social media posts (many AI features)
+- Measure your work with analytics.
+- Collaborate with other team members to exchange or buy posts.
+- Invite your team members to collaborate, comment, and schedule posts.
+- At the moment there is no difference between the hosted version to the self-hosted version
 
-To build all apps and packages, run the following command:
+## Tech Stack
 
-```
-cd my-turborepo
+- NX (Monorepo)
+- NextJS (React)
+- NestJS
+- Prisma (Default to PostgreSQL)
+- Redis (BullMQ)
+- Resend (email notifications)
 
-# With [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation) installed (recommended)
-turbo build
+## Quick Start
 
-# Without [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation), use your package manager
-npx turbo build
-yarn dlx turbo build
-pnpm exec turbo build
-```
+To have the project up and running, please follow the [Quick Start Guide](https://docs.Socian.com/quickstart)
 
-You can build a specific package by using a [filter](https://turborepo.com/docs/crafting-your-repository/running-tasks#using-filters):
+## Sponsor Socian
 
-```
-# With [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation) installed (recommended)
-turbo build --filter=docs
+We now give a few options to Sponsor Socian:
+- Just a donation: You like what we are building, and want to buy us some coffees so we can build faster.
+- Main Repository: Get your logo with a backlink from the main Socian repository. Socian has almost 3m downloads and 20k views per month.
+- Main Repository + Website: Get your logo on the central repository and the main website. Here are some metrics: - Website has 20k hits per month + 65 DR (strong backlink) - Repository has 20k hits per month + Almost 3m docker downloads.
 
-# Without [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation), use your package manager
-npx turbo build --filter=docs
-yarn exec turbo build --filter=docs
-pnpm exec turbo build --filter=docs
-```
 
-### Develop
 
-To develop all apps and packages, run the following command:
+## Socian Compliance
 
-```
-cd my-turborepo
+- Socian is an open-source, self-hosted social media scheduling tool that supports platforms like X (formerly Twitter), Bluesky, Mastodon, Discord, and others.
+- Socian hosted service uses official, platform-approved OAuth flows.
+- Socian does not automate or scrape content from social media platforms.
+- Socian does not collect, store, or proxy API keys or access tokens from users.
+- Socian never ask users to paste API keys into our hosted product.
+- Socian Users always authenticate directly with the social platform (e.g., X, Discord, etc.), ensuring platform compliance and data privacy.
 
-# With [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation) installed (recommended)
-turbo dev
 
-# Without [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation), use your package manager
-npx turbo dev
-yarn exec turbo dev
-pnpm exec turbo dev
-```
+## License
 
-You can develop a specific package by using a [filter](https://turborepo.com/docs/crafting-your-repository/running-tasks#using-filters):
+This repository's source code is available under the [AGPL-3.0 license](LICENSE).
 
-```
-# With [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation) installed (recommended)
-turbo dev --filter=web
+<br /><br /><br />
 
-# Without [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation), use your package manager
-npx turbo dev --filter=web
-yarn exec turbo dev --filter=web
-pnpm exec turbo dev --filter=web
-```
-
-### Remote Caching
-
-> [!TIP]
-> Vercel Remote Cache is free for all plans. Get started today at [vercel.com](https://vercel.com/signup?/signup?utm_source=remote-cache-sdk&utm_campaign=free_remote_cache).
-
-Turborepo can use a technique known as [Remote Caching](https://turborepo.com/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
-
-By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup?utm_source=turborepo-examples), then enter the following commands:
-
-```
-cd my-turborepo
-
-# With [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation) installed (recommended)
-turbo login
-
-# Without [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation), use your package manager
-npx turbo login
-yarn exec turbo login
-pnpm exec turbo login
-```
-
-This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
-
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
-
-```
-# With [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation) installed (recommended)
-turbo link
-
-# Without [global `turbo`](https://turborepo.com/docs/getting-started/installation#global-installation), use your package manager
-npx turbo link
-yarn exec turbo link
-pnpm exec turbo link
-```
-
-## Useful Links
-
-Learn more about the power of Turborepo:
-
-- [Tasks](https://turborepo.com/docs/crafting-your-repository/running-tasks)
-- [Caching](https://turborepo.com/docs/crafting-your-repository/caching)
-- [Remote Caching](https://turborepo.com/docs/core-concepts/remote-caching)
-- [Filtering](https://turborepo.com/docs/crafting-your-repository/running-tasks#using-filters)
-- [Configuration Options](https://turborepo.com/docs/reference/configuration)
-- [CLI Usage](https://turborepo.com/docs/reference/command-line-reference)
+<p align="center">
+  <a href="https://www.g2.com/products/Socian/take_survey" target="blank"><img alt="g2" src="https://github.com/user-attachments/assets/892cb74c-0b49-4589-b2f5-fbdbf7a98f66" /></a>
+</p>
