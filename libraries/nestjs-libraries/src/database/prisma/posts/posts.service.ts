@@ -888,6 +888,7 @@ export class PostsService {
                 ...toPost.list.map((l) => ({
                   id: '',
                   content: l.post,
+                  //@ts-ignore
                   image: [],
                 })),
                 {
@@ -1002,7 +1003,7 @@ export class PostsService {
       orgId,
       getNotificationsForOrgSince.length === 1
         ? subject
-        : '[Postiz] Your latest notifications',
+        : '[Socian] Your latest notifications',
       message
     );
   }

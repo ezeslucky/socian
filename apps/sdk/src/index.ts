@@ -12,10 +12,10 @@ function toQueryString(obj: Record<string, any>): string {
   return params.toString();
 }
 
-export default class Postiz {
+export default class Socian {
   constructor(
     private _apiKey: string,
-    private _path = 'https://api.postiz.com'
+    private _path = 'https://api.socian.com'
   ) {}
 
   async post(posts: CreatePostDto) {
@@ -56,7 +56,8 @@ export default class Postiz {
         ? 'image/jpeg'
         : 'image/jpeg';
 
-    const blob = new Blob([file], { type });
+    const uint8Array = new Uint8Array(file);
+    const blob = new Blob([uint8Array], { type });
     formData.append('file', blob, extension);
 
     return (

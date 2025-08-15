@@ -1,5 +1,5 @@
 name: "🐛 Bug Report"
-description: "Submit a bug report to help us improve,\nif you have a problem installing the app please join our https://discord.postiz.com instead for help."
+description: "Submit a bug report to help us improve,\nif you have a problem installing the app please join our https://discord.socian.com instead for help."
 title: "Give your bug report a good title "
 labels: ["type: bug"]
 body:
@@ -14,8 +14,6 @@ body:
       label: "📜 Description"
       description: "A clear and concise description of what the bug is."
       placeholder: "It bugs out when ..."
-    validations:
-      required: true
   - type: textarea
     id: steps-to-reproduce
     validations:
