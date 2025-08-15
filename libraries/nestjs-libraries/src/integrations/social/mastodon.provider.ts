@@ -28,11 +28,7 @@ export class MastodonProvider extends SocialAbstract implements SocialProvider {
     };
   }
   protected generateUrlDynamic(
-    customUrl: string,
-    state: string,
-    clientId: string,
-    url: string
-  ) {
+customUrl: string, state: string, clientId: string, url: string, refresh: string  ) {
     return `${customUrl}/oauth/authorize?client_id=${clientId}&response_type=code&redirect_uri=${encodeURIComponent(
       `${url}/integrations/social/mastodon`
     )}&scope=${this.scopes.join('+')}&state=${state}`;

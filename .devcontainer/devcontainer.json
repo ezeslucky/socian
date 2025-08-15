@@ -1,6 +1,6 @@
 {
-	"name": "Postiz Dev Container",
-	"image": "localhost/postiz-devcontainer",
+	"name": "Socian Dev Container",
+	"image": "localhost/socian-devcontainer",
 	"features": {},
 	"customizations": {
 		"vscode": {

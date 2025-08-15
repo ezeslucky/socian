@@ -8,7 +8,7 @@ export const PreConditionComponentModal: FC = () => {
   return (
     <div className="flex flex-col gap-[16px]">
       <div className="whitespace-pre-line">
-        This social channel was connected previously to another Postiz account.{'\n'}
+        This social channel was connected previously to another Socian account.{'\n'}
         To continue, please fast-track your trial for an immediate charge.{'\n'}{'\n'}
         ** Please be advised that the account will not eligible for a refund, and the charge is final.
       </div>
