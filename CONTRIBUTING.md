@@ -11,7 +11,7 @@ The main documentation site has a [developer guide](https://docs.socian.com/deve
 This is an open source project, with an open and welcoming community that is always keen to welcome new contributors. We recommend the two best ways to interact with the community are:
 
 - **GitHub issues**: To discuss more slowly, or longer-written messages.
-- **[Discord chat](https://discord.socian.com)**: To chat with people [Discord chat](https://discord.socian.com/) and a quicker feedback.
+
 
 As a general rule;
 
@@ -47,8 +47,4 @@ This project follows a Fork/Feature Branch/Pull Request model. If you're not fam
    ```
 6. **Create a pull request**: Propose your changes **to the main branch**.
 
-# Need Help?
 
-Again, do check the [developer guide](https://docs.socian.com/developer-guide). Much of what you probably need to know is in there.
-
-If you encounter any issues, please visit our [support page](https://docs.socian.com/support) or check the community forums. Your contributions help make socian better!
