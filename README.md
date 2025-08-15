@@ -25,10 +25,6 @@
 - Redis (BullMQ)
 - Resend (email notifications)
 
-## Quick Start
-
-To have the project up and running, please follow the [Quick Start Guide](https://docs.Socian.com/quickstart)
-
 ## Sponsor Socian
 
 We now give a few options to Sponsor Socian:
