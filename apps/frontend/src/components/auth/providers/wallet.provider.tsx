@@ -32,7 +32,7 @@ import {
   TrustWalletAdapter,
   XDEFIWalletAdapter,
   TokenPocketWalletAdapter,
-} from '@socian/wallets';
+} from '@postiz/wallets';
 import {
   WalletModalProvider,
   useWalletModal,
