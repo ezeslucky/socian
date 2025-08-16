@@ -36,6 +36,7 @@ customUrl: string, state: string, clientId: string, url: string, refresh: string
 
   async generateAuthUrl() {
     const state = makeId(6);
+    //@ts-ignore
     const url = this.generateUrlDynamic(
       process.env.MASTODON_URL || 'https://mastodon.social',
       state,
