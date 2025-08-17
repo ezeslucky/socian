@@ -1,3 +1,11 @@
 packages:
-  - apps/*
-  - libraries/*
+  - apps/frontend
+  - apps/backend
+  - apps/sdk
+  - apps/workers
+  - apps/cron
+  - apps/commands
+  - apps/extension
+  - libraries/helpers
+  - libraries/nestjs-libraries
+  - libraries/react-shared-libraries
